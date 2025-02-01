@@ -1,0 +1,12 @@
+.red{
+     /* (.) indicates class */
+    color: blueviolet;
+}
+.bg-yellow{
+    background-color: rgb(200, 42, 42);
+}
+#firstdiv
+{
+    /* (#) indicates id */
+    background-color: aqua;
+} 
